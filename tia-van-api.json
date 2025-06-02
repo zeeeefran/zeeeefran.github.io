@@ -93,6 +93,14 @@
         "categoria_id": 1,
         "imagem": "img/empada-calabresa.jpg",
         "destaque": true
+      },
+        {
+        "id": 10,
+        "nome": "Pastelzinho de Carne",
+        "preco": 5.50,
+        "categoria_id": 2,
+        "imagem": "img/pastel.jpg",
+        "destaque": true
       }
     ]
   }

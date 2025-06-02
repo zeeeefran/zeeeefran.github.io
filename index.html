@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dragon Ball</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        #nomePersonagem, #genero, #descri {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+        #image {
+            max-width: 200px;
+            height: auto;
+            margin-top: 20px;
+        }
+        input, button {
+            padding: 10px;
+            font-size: 16px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Informe o número do personagem de Dragon Ball:</h1>
+    <input type="number" id="personagemId" placeholder="Número do personagem" min="1">
+    <button onclick="getData()">Buscar Personagem</button>
+
+    <div>
+        <span id="nomePersonagem"></span>
+        <br>
+        <span id="genero"></span>
+        <br>
+        <span id="descri"></span>
+        <br>
+        <img src="" id="image" alt="Imagem do personagem">
+    </div>
+
+    <script>
+        async function getData() {
+            const personagemId = document.getElementById('personagemId').value;
+            if (!personagemId) {
+                alert("Por favor, insira o número do personagem.");
+                return;
+            }
+
+            const url = `https://dragonball-api.com/api/characters/${personagemId}`;
+            try {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`Resposta falhou: ${response.status}`);
+                }
+
+                const json = await response.json();
+                console.log(json);
+
+                document.getElementById('nomePersonagem').innerText = json.name;
+                document.getElementById('genero').innerText = json.gender;
+                document.getElementById('descri').innerText = json.description || "Sem descrição disponível.";
+                document.getElementById('image').src = json.image || "https://via.placeholder.com/200?text=Sem+Imagem";
+            } catch (error) {
+                console.error(error.message);
+                alert("Erro ao buscar os dados. Verifique o número e tente novamente.");
+            }
+        }
+    </script>
+
+</body>
+</html>

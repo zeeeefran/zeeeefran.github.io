@@ -1,0 +1,99 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "Salgados",
+        "icone": "sandwich"
+      },
+      {
+        "id": 2,
+        "nome": "Bebidas",
+        "icone": "cup-soda"
+      },
+      {
+        "id": 3,
+        "nome": "Bolo de Pote",
+        "icone": "cake"
+      },
+      {
+        "id": 4,
+        "nome": "Trufas",
+        "icone": "candy"
+      }
+    ],
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Croissant de Frango",
+        "preco": 8.00,
+        "categoria_id": 1,
+        "imagem": "img/croissant.jpg",
+        "destaque": true
+      },
+      {
+        "id": 2,
+        "nome": "Bolo de Chocolate",
+        "preco": 12.00,
+        "categoria_id": 3,
+        "imagem": "img/bolo-chocolate.jpg",
+        "destaque": true
+      },
+      {
+        "id": 3,
+        "nome": "Trufa de Morango",
+        "preco": 5.00,
+        "categoria_id": 4,
+        "imagem": "img/trufa-morango.jpg",
+        "destaque": true
+      },
+      {
+        "id": 4,
+        "nome": "Suco de Laranja",
+        "preco": 6.00,
+        "categoria_id": 2,
+        "imagem": "img/suco-laranja.jpg",
+        "destaque": true
+      },
+      {
+        "id": 5,
+        "nome": "Empada de Frango",
+        "preco": 7.00,
+        "categoria_id": 1,
+        "imagem": "img/empada-frango.jpg",
+        "destaque": true
+      },
+      {
+        "id": 6,
+        "nome": "Tapioca Simples",
+        "preco": 4.00,
+        "categoria_id": 1,
+        "imagem": "img/tapioca.jpg",
+        "destaque": true
+      },
+      {
+        "id": 7,
+        "nome": "Refrigerante Lata",
+        "preco": 6.00,
+        "categoria_id": 2,
+        "imagem": "img/refrigerante.jpg",
+        "destaque": true
+      },
+      {
+        "id": 8,
+        "nome": "Suco de Goiaba ",
+        "preco": 5.00,
+        "categoria_id": 2,
+        "imagem": "img/suco.jpg",
+        "destaque": true
+      },
+      {
+        "id": 5,
+        "nome": "Empada de Calabresa com catupiry",
+        "preco": 7.00,
+        "categoria_id": 1,
+        "imagem": "img/empada-calabresa.jpg",
+        "destaque": true
+      }
+    ]
+  }
+  

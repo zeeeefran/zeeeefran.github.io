@@ -92,7 +92,7 @@
         "preco": 7.00,
         "categoria_id": 1,
         "imagem": "img/empada-calabresa.jpg",
-        "destaque": true
+        "destaque": false
       },
         {
         "id": 10,

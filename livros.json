@@ -238,7 +238,7 @@
     "genero": "Romance",
     "anoPublicacao": 1878,
     "isbn": "9788573262426"
-  },  
+  },
   {
     "id": 31,
     "titulo": "Neuromancer",
@@ -246,5 +246,341 @@
     "genero": "Ficção científica",
     "anoPublicacao": 1984,
     "isbn": "9780441569595"
-  } 
+  },
+
+  // DISTOPIA (extra 10)
+  {
+    "id": 32,
+    "titulo": "Admirável Mundo Novo",
+    "autor": "Aldous Huxley",
+    "genero": "Distopia",
+    "anoPublicacao": 1932,
+    "isbn": "9780060850524"
+  },
+  {
+    "id": 33,
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "genero": "Distopia",
+    "anoPublicacao": 1953,
+    "isbn": "9781451673319"
+  },
+  {
+    "id": 34,
+    "titulo": "Laranja Mecânica",
+    "autor": "Anthony Burgess",
+    "genero": "Distopia",
+    "anoPublicacao": 1962,
+    "isbn": "9780393312836"
+  },
+  {
+    "id": 35,
+    "titulo": "Nós",
+    "autor": "Yevgeny Zamyatin",
+    "genero": "Distopia",
+    "anoPublicacao": 1924,
+    "isbn": "9780141185884"
+  },
+  {
+    "id": 36,
+    "titulo": "O Conto da Aia",
+    "autor": "Margaret Atwood",
+    "genero": "Distopia",
+    "anoPublicacao": 1985,
+    "isbn": "9780385490818"
+  },
+  {
+    "id": 37,
+    "titulo": "Estação Onze",
+    "autor": "Emily St. John Mandel",
+    "genero": "Distopia",
+    "anoPublicacao": 2014,
+    "isbn": "9780307379743"
+  },
+  {
+    "id": 38,
+    "titulo": "O Homem do Castelo Alto",
+    "autor": "Philip K. Dick",
+    "genero": "Distopia",
+    "anoPublicacao": 1962,
+    "isbn": "9780547572482"
+  },
+  {
+    "id": 39,
+    "titulo": "V de Vingança",
+    "autor": "Alan Moore",
+    "genero": "Distopia",
+    "anoPublicacao": 1982,
+    "isbn": "9781401208413"
+  },
+  {
+    "id": 40,
+    "titulo": "Jogos Vorazes",
+    "autor": "Suzanne Collins",
+    "genero": "Distopia",
+    "anoPublicacao": 2008,
+    "isbn": "9780439023528"
+  },
+  {
+    "id": 41,
+    "titulo": "O Doador",
+    "autor": "Lois Lowry",
+    "genero": "Distopia",
+    "anoPublicacao": 1993,
+    "isbn": "9780544336261"
+  },
+  {
+    "id": 42,
+    "titulo": "Metro 2033",
+    "autor": "Dmitry Glukhovsky",
+    "genero": "Distopia",
+    "anoPublicacao": 2005,
+    "isbn": "9780143126467"
+  },
+
+  // FÁBULA (extra 10)
+  {
+    "id": 43,
+    "titulo": "Fábulas de Esopo",
+    "autor": "Esopo",
+    "genero": "Fábula",
+    "anoPublicacao": -600,
+    "isbn": "9788535911237"
+  },
+  {
+    "id": 44,
+    "titulo": "As Fábulas de La Fontaine",
+    "autor": "Jean de La Fontaine",
+    "genero": "Fábula",
+    "anoPublicacao": 1668,
+    "isbn": "9780486407559"
+  },
+  {
+    "id": 45,
+    "titulo": "Fábulas de Millôr Fernandes",
+    "autor": "Millôr Fernandes",
+    "genero": "Fábula",
+    "anoPublicacao": 1974,
+    "isbn": "9788572325344"
+  },
+  {
+    "id": 46,
+    "titulo": "O Gato de Botas",
+    "autor": "Charles Perrault",
+    "genero": "Fábula",
+    "anoPublicacao": 1697,
+    "isbn": "9780486406361"
+  },
+  {
+    "id": 47,
+    "titulo": "Fábulas para Imaginar",
+    "autor": "Monteiro Lobato",
+    "genero": "Fábula",
+    "anoPublicacao": 1947,
+    "isbn": "9788572323609"
+  },
+  {
+    "id": 48,
+    "titulo": "Fábulas de La Fontaine (versão infantil)",
+    "autor": "Jean de La Fontaine",
+    "genero": "Fábula",
+    "anoPublicacao": 2001,
+    "isbn": "9788535909708"
+  },
+  {
+    "id": 49,
+    "titulo": "A Cigarra e a Formiga",
+    "autor": "Esopo",
+    "genero": "Fábula",
+    "anoPublicacao": -600,
+    "isbn": "9788535909647"
+  },
+  {
+    "id": 50,
+    "titulo": "Fábulas de Esopo Contadas às Crianças",
+    "autor": "Esopo",
+    "genero": "Fábula",
+    "anoPublicacao": -600,
+    "isbn": "9788526021924"
+  },
+  {
+    "id": 51,
+    "titulo": "Fábulas Selecionadas",
+    "autor": "Jean de La Fontaine",
+    "genero": "Fábula",
+    "anoPublicacao": 1668,
+    "isbn": "9780486284275"
+  },
+  {
+    "id": 52,
+    "titulo": "Fábulas de Esopo para Adultos",
+    "autor": "Esopo",
+    "genero": "Fábula",
+    "anoPublicacao": -600,
+    "isbn": "9780192834557"
+  },
+
+  // SÁTIRA POLÍTICA (extra 10)
+  {
+    "id": 53,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Sátira política",
+    "anoPublicacao": 1949,
+    "isbn": "9780451524935"
+  },
+  {
+    "id": 54,
+    "titulo": "V de Vingança",
+    "autor": "Alan Moore",
+    "genero": "Sátira política",
+    "anoPublicacao": 1982,
+    "isbn": "9781401208413"
+  },
+  {
+    "id": 55,
+    "titulo": "Laranja Mecânica",
+    "autor": "Anthony Burgess",
+    "genero": "Sátira política",
+    "anoPublicacao": 1962,
+    "isbn": "9780393312836"
+  },
+  {
+    "id": 56,
+    "titulo": "Admirável Mundo Novo",
+    "autor": "Aldous Huxley",
+    "genero": "Sátira política",
+    "anoPublicacao": 1932,
+    "isbn": "9780060850524"
+  },
+  {
+    "id": 57,
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "genero": "Sátira política",
+    "anoPublicacao": 1953,
+    "isbn": "9781451673319"
+  },
+  {
+    "id": 58,
+    "titulo": "A Revolução Cultural Chinesa",
+    "autor": "Frank Dikötter",
+    "genero": "Sátira política",
+    "anoPublicacao": 2016,
+    "isbn": "9781846147571"
+  },
+  {
+    "id": 59,
+    "titulo": "O Príncipe",
+    "autor": "Nicolau Maquiavel",
+    "genero": "Sátira política",
+    "anoPublicacao": 1532,
+    "isbn": "9780140449150"
+  },
+  {
+    "id": 60,
+    "titulo": "Os Irmãos Karamázov",
+    "autor": "Fiódor Dostoiévski",
+    "genero": "Sátira política",
+    "anoPublicacao": 1880,
+    "isbn": "9780140449242"
+  },
+  {
+    "id": 61,
+    "titulo": "A Revolta de Atlas",
+    "autor": "Ayn Rand",
+    "genero": "Sátira política",
+    "anoPublicacao": 1957,
+    "isbn": "9780452011873"
+  },
+  {
+    "id": 62,
+    "titulo": "Homens e Ratones",
+    "autor": "John Steinbeck",
+    "genero": "Sátira política",
+    "anoPublicacao": 1937,
+    "isbn": "9780140177398"
+  },
+
+  // FICÇÃO ESPIRITUAL (extra 10)
+  {
+    "id": 63,
+    "titulo": "O Poder do Agora",
+    "autor": "Eckhart Tolle",
+    "genero": "Ficção espiritual",
+    "anoPublicacao": 1997,
+    "isbn": "9781577314806"
+  },
+  {
+    "id": 64,
+    "titulo": "Siddhartha",
+    "autor": "Hermann Hesse",
+    "genero": "Ficção espiritual",
+    "anoPublicacao": 1922,
+    "isbn": "9780553208849"
+  },
+  {
+    "id": 65,
+    "titulo": "Autobiografia de um Iogue",
+    "autor": "Paramahansa Yogananda",
+    "genero": "Ficção espiritual",
+    "anoPublicacao": 1946,
+    "isbn": "9780876120791"
+  },
+  {
+    "id": 66,
+    "titulo": "Um Curso em Milagres",
+    "autor": "Helen Schucman",
+    "genero": "Ficção espiritual",
+    "anoPublicacao": 1975,
+    "isbn": "9780917285918"
+  },
+  {
+    "id": 67,
+    "titulo": "O Caminho do Peregrino",
+    "autor": "Anônimo",
+    "genero": "Ficção espiritual",
+    "anoPublicacao": 1884,
+    "isbn": "9780824512041"
+  },
+  {
+    "id": 68,
+    "titulo": "O Profeta",
+    "autor": "Kahlil Gibran",
+    "genero": "Ficção espiritual",
+    "anoPublicacao": 1923,
+    "isbn": "9780394404286"
+  },
+  {
+    "id": 69,
+    "titulo": "Conversando com Deus",
+    "autor": "Neale Donald Walsch",
+    "genero": "Ficção espiritual",
+    "anoPublicacao": 1995,
+    "isbn": "9780446675663"
+  },
+  {
+    "id": 70,
+    "titulo": "O Livro Tibetano do Viver e do Morrer",
+    "autor": "Sogyal Rinpoche",
+    "genero": "Ficção espiritual",
+    "anoPublicacao": 1992,
+    "isbn": "9780062508340"
+  },
+  {
+    "id": 71,
+    "titulo": "As Sete Leis Espirituais do Sucesso",
+    "autor": "Deepak Chopra",
+    "genero": "Ficção espiritual",
+    "anoPublicacao": 1994,
+    "isbn": "9781878424112"
+  },
+  {
+    "id": 72,
+    "titulo": "A Sabedoria do Eneagrama",
+    "autor": "Don Richard Riso",
+    "genero": "Ficção espiritual",
+    "anoPublicacao": 1999,
+    "isbn": "9780062508371"
+  }
 ]

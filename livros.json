@@ -238,5 +238,13 @@
     "genero": "Romance",
     "anoPublicacao": 1878,
     "isbn": "9788573262426"
-  }
+  },  
+  {
+    "id": 31,
+    "titulo": "Neuromancer",
+    "autor": "William Gibson",
+    "genero": "Ficção científica",
+    "anoPublicacao": 1984,
+    "isbn": "9780441569595"
+  } 
 ]

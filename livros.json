@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "anoPublicacao": 1954,
+    "isbn": "9780544003415"
+  },
+  {
+    "id": 2,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Distopia",
+    "anoPublicacao": 1949,
+    "isbn": "9780451524935"
+  },
+  {
+    "id": 3,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "anoPublicacao": 1899,
+    "isbn": "9788572328772"
+  },
+  {
+    "id": 4,
+    "titulo": "O Pequeno Príncipe",
+    "autor": "Antoine de Saint-Exupéry",
+    "genero": "Fábula",
+    "anoPublicacao": 1943,
+    "isbn": "9788595080809"
+  },
+  {
+    "id": 5,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "genero": "Sátira política",
+    "anoPublicacao": 1945,
+    "isbn": "9788535914849"
+  },
+  {
+    "id": 6,
+    "titulo": "Orgulho e Preconceito",
+    "autor": "Jane Austen",
+    "genero": "Romance",
+    "anoPublicacao": 1813,
+    "isbn": "9780141439518"
+  },
+  {
+    "id": 7,
+    "titulo": "A Metamorfose",
+    "autor": "Franz Kafka",
+    "genero": "Ficção",
+    "anoPublicacao": 1915,
+    "isbn": "9788535909555"
+  },
+  {
+    "id": 8,
+    "titulo": "O Código Da Vinci",
+    "autor": "Dan Brown",
+    "genero": "Suspense",
+    "anoPublicacao": 2003,
+    "isbn": "9788575421135"
+  },
+  {
+    "id": 9,
+    "titulo": "Cem Anos de Solidão",
+    "autor": "Gabriel García Márquez",
+    "genero": "Realismo mágico",
+    "anoPublicacao": 1967,
+    "isbn": "9788535914849"
+  },
+  {
+    "id": 10,
+    "titulo": "O Alquimista",
+    "autor": "Paulo Coelho",
+    "genero": "Ficção espiritual",
+    "anoPublicacao": 1988,
+    "isbn": "9788575425195"
+  },
+  {
+    "id": 11,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "anoPublicacao": 1997,
+    "isbn": "9788532511010"
+  },
+  {
+    "id": 12,
+    "titulo": "O Nome do Vento",
+    "autor": "Patrick Rothfuss",
+    "genero": "Fantasia",
+    "anoPublicacao": 2007,
+    "isbn": "9788578270693"
+  },
+  {
+    "id": 13,
+    "titulo": "A Menina que Roubava Livros",
+    "autor": "Markus Zusak",
+    "genero": "Drama",
+    "anoPublicacao": 2005,
+    "isbn": "9788573029166"
+  },
+  {
+    "id": 14,
+    "titulo": "Ensaio sobre a Cegueira",
+    "autor": "José Saramago",
+    "genero": "Ficção",
+    "anoPublicacao": 1995,
+    "isbn": "9788535921533"
+  },
+  {
+    "id": 15,
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "anoPublicacao": 1937,
+    "isbn": "9780547928227"
+  },
+  {
+    "id": 16,
+    "titulo": "O Silmarillion",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "anoPublicacao": 1977,
+    "isbn": "9780345325815"
+  },
+  {
+    "id": 17,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "anoPublicacao": 1881,
+    "isbn": "9788583861656"
+  },
+  {
+    "id": 18,
+    "titulo": "O Morro dos Ventos Uivantes",
+    "autor": "Emily Brontë",
+    "genero": "Romance",
+    "anoPublicacao": 1847,
+    "isbn": "9780141439556"
+  },
+  {
+    "id": 19,
+    "titulo": "As Crônicas de Nárnia",
+    "autor": "C.S. Lewis",
+    "genero": "Fantasia",
+    "anoPublicacao": 1956,
+    "isbn": "9780066238500"
+  },
+  {
+    "id": 20,
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "genero": "Terror",
+    "anoPublicacao": 1897,
+    "isbn": "9780141439846"
+  },
+  {
+    "id": 21,
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "genero": "Terror",
+    "anoPublicacao": 1818,
+    "isbn": "9780141439471"
+  },
+  {
+    "id": 22,
+    "titulo": "O Conde de Monte Cristo",
+    "autor": "Alexandre Dumas",
+    "genero": "Aventura",
+    "anoPublicacao": 1844,
+    "isbn": "9780140449266"
+  },
+  {
+    "id": 23,
+    "titulo": "Sherlock Holmes: Um Estudo em Vermelho",
+    "autor": "Arthur Conan Doyle",
+    "genero": "Mistério",
+    "anoPublicacao": 1887,
+    "isbn": "9788572328130"
+  },
+  {
+    "id": 24,
+    "titulo": "O Lobo da Estepe",
+    "autor": "Hermann Hesse",
+    "genero": "Ficção filosófica",
+    "anoPublicacao": 1927,
+    "isbn": "9788573262228"
+  },
+  {
+    "id": 25,
+    "titulo": "A Divina Comédia",
+    "autor": "Dante Alighieri",
+    "genero": "Poesia épica",
+    "anoPublicacao": 1320,
+    "isbn": "9788572326334"
+  },
+  {
+    "id": 26,
+    "titulo": "A Ilíada",
+    "autor": "Homero",
+    "genero": "Poesia épica",
+    "anoPublicacao": -750,
+    "isbn": "9780140445923"
+  },
+  {
+    "id": 27,
+    "titulo": "A Odisséia",
+    "autor": "Homero",
+    "genero": "Poesia épica",
+    "anoPublicacao": -700,
+    "isbn": "9780140268867"
+  },
+  {
+    "id": 28,
+    "titulo": "Crime e Castigo",
+    "autor": "Fiódor Dostoiévski",
+    "genero": "Ficção psicológica",
+    "anoPublicacao": 1866,
+    "isbn": "9788535909777"
+  },
+  {
+    "id": 29,
+    "titulo": "Os Miseráveis",
+    "autor": "Victor Hugo",
+    "genero": "Romance histórico",
+    "anoPublicacao": 1862,
+    "isbn": "9788572328710"
+  },
+  {
+    "id": 30,
+    "titulo": "Anna Kariênina",
+    "autor": "Liev Tolstói",
+    "genero": "Romance",
+    "anoPublicacao": 1878,
+    "isbn": "9788573262426"
+  }
+]
